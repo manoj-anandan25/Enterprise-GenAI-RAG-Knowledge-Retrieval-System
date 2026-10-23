@@ -1,0 +1,13 @@
+ENTERPRISE HR & IT POLICIES
+
+1. REMOTE WORK POLICY
+Employees may work remotely up to 3 days per week with manager approval. All remote workers must maintain a secure, private workspace and use company-provided VPN access for all internal systems. Remote work requests must be submitted at least 5 business days in advance.
+
+2. PASSWORD RESET GUIDELINES
+Passwords must be reset every 90 days and must be at least 12 characters long, including uppercase, lowercase, numbers, and special characters. If locked out, employees should contact the IT helpdesk at support@company.com or call (555) 123-4567. Self-service reset is available via the company portal with multi-factor authentication enabled.
+
+3. EXPENSE REIMBURSEMENT LIMITS
+Travel expenses are reimbursed up to $500 per trip for lodging, $150 per day for meals, and $200 for transportation. All claims must include original receipts and be submitted within 30 days of the expense. Personal expenses and alcohol are not reimbursable.
+
+4. DATA SECURITY COMPLIANCE
+All employees must complete annual data security training. Customer data must never be stored on personal devices. Any suspected data breach must be reported to the CISO within 1 hour of discovery. Non-compliance may result in disciplinary action up to and including termination.
